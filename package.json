@@ -1,0 +1,33 @@
+{
+  "name": "ttmik-generator",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@google/generative-ai": "^0.17.1",
+    "@mui/icons-material": "^6.0.1",
+    "@mui/material": "^6.0.1",
+    "@types/animejs": "^3.1.12",
+    "animejs": "^3.2.2",
+    "firebase": "^10.13.1",
+    "next": "14.2.7",
+    "react": "^18",
+    "react-anime": "^4.1.1",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.7",
+    "typescript": "^5"
+  }
+}
